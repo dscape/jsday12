@@ -1,0 +1,12 @@
+{ "name"         : "skyply"
+, "version"      : "0.0.0"
+, "dependencies" :
+  { "flatiron"   : "0.1.x"
+  , "union"      : "0.3.x"
+  , "ecstatic"   : "0.1.x"
+  , "socket.io"  : "0.9.*"
+  }
+, "subdomain"    : "skyply"
+, "scripts"      : { "start" : "node server.js" }
+, "engines"      : { "node"  : "0.6.x" }
+}

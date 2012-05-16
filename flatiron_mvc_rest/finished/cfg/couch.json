@@ -1,0 +1,6 @@
+{ "master"  : 
+  { "uri"   : "https://flatironrest.iriscouch.com"
+  , "db"    : "flatironrest"
+  }
+, "compact" : 6000
+}

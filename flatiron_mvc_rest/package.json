@@ -1,0 +1,21 @@
+{
+  "name": "training-flatironjs-rest",
+  "private": true,
+  "version": "0.0.1",
+  "dependencies": {
+    "flatiron": "0.1.x",
+    "union": "0.3.x",
+    "ecstatic": "0.1.x",
+    "nano": "2.0.x",
+    "request": "2.9.x",
+    "errs": "0.2.0",
+    "follow": "0.7.x"
+  },
+  "subdomain": "flatironjs-rest",
+  "scripts": {
+    "start": "node server.js -c skype"
+  },
+  "engines": {
+    "node": "0.6.x"
+  }
+}
